@@ -1,0 +1,7 @@
+url: https://www.youtube.com/watch?v=DGvFzCtx94k&list=PLBx8Eyw3km2mGUGqZqj9OEwuqpFjxm0gX&index=2
+
+First Video in my CSS Card Effects Playlist
+
+- I will submit this code but it is not correct
+        nothing is working the way it should
+        
